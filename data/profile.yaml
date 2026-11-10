@@ -1,0 +1,38 @@
+candidate:
+  name: "Rohith Vandana"
+  degree: "B.Tech in Electronics & Communication Engineering (ECE)"
+  institution: "SRM Institute of Science and Technology"
+  graduation_year: 2027
+  cohort_bracket: "2026-2027"
+  experience_level: "Fresher / 0-1 Years"
+
+target_roles:
+  - "Agentic AI Developer"
+  - "AI / ML Engineer"
+  - "Python Developer / Backend Engineer"
+  - "Full Stack Developer"
+
+primary_skills:
+  - "Python"
+  - "FastAPI"
+  - "LangGraph"
+  - "LangChain"
+  - "RAG (Retrieval-Augmented Generation)"
+  - "Vector Databases (Chroma, Pinecone, FAISS)"
+  - "React & Vite"
+  - "SQL / Temporal Databases"
+  - "OpenCV & Computer Vision"
+  - "Scikit-Learn & PyTorch"
+
+preferred_locations:
+  - "Bengaluru"
+  - "Hyderabad"
+  - "Chennai"
+  - "Pune"
+  - "Remote"
+
+exclusions:
+  - "Non-technical sales"
+  - "BPO / Telecalling"
+  - "Unpaid internships"
+  - "Roles requiring 2+ years of full-time experience"

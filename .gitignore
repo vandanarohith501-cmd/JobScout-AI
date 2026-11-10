@@ -1,0 +1,23 @@
+# Credentials & Environment
+.env
+*.env
+*.env.local
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Generated outputs & logs
+*.log
+output/
+Job_Research_Report_*.pdf
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
