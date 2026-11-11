@@ -1,0 +1,292 @@
+{
+  "sent_jobs": [
+    {
+      "company": "SingleStore",
+      "role": "Software Engineer Intern - Engine-2027",
+      "link": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Meraki-Labs",
+      "role": "AI Engineer Intern",
+      "link": "https://jobs.ashbyhq.com/Meraki-Labs/93ff65d2-f0cd-4fd1-b76f-b2e350f2d6c8",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "HackerRank",
+      "role": "AI Researcher Intern",
+      "link": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "HackerRank",
+      "role": "Software Development Engineer Intern",
+      "link": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Enterpret",
+      "role": "[Backend, Onsite] Software Engineering Intern",
+      "link": "https://job-boards.greenhouse.io/enterpret/jobs/7847134003",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Enterpret",
+      "role": "Machine Learning Intern",
+      "link": "https://job-boards.greenhouse.io/enterpret/jobs/7723230003",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Karya",
+      "role": "Research Engineering Intern, AI Evaluations",
+      "link": "https://job-boards.greenhouse.io/karya/jobs/5469564008",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Plane Software",
+      "role": "Software Engineer, Backend (Python)",
+      "link": "https://jobs.ashbyhq.com/plane/00beeb42-56c0-48ce-9082-9fba93836b54",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Plane Software",
+      "role": "Software Engineer, Frontend (React)",
+      "link": "https://jobs.ashbyhq.com/plane/15cf6387-af74-4616-924f-3659fb76de01",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Smallest.ai",
+      "role": "Software Engineer - Systems & Reliability",
+      "link": "https://jobs.ashbyhq.com/smallest/f0879803-4119-4278-bcfc-4f0b25df943b",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "AiPrise",
+      "role": "Software Engineer I (AI Platform)",
+      "link": "https://jobs.ashbyhq.com/aiprise/3763c791-a387-4078-9ca4-00cbfbf9b1a6",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Speechify",
+      "role": "Software Engineer, AI Data",
+      "link": "https://job-boards.greenhouse.io/speechify/jobs/6229036004",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Certa",
+      "role": "Frontend Engineer - Internship",
+      "link": "https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Certa",
+      "role": "AI Engineer (Platform)",
+      "link": "https://jobs.ashbyhq.com/certa/da4d5879-d94d-4f8c-ada4-24bd955520e3",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "TalentCV",
+      "role": "AI/ML Engineer Intern (Agentic AI)",
+      "link": "https://unstop.com/internships/ai-ml-engineer-internship-talentcv-1771124",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Vortizo AI",
+      "role": "AI Intern (Machine Learning & Prompts)",
+      "link": "https://unstop.com/internships/ai-internship-vortizo-ai-1793918",
+      "sent_at": "2026-11-08"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Data Scientist - Evaluations, Chanakya",
+      "link": "https://jobs.ashbyhq.com/sarvam/7c42207a-bb56-413c-839f-9ad692df840e",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Frontend Engineer, Chanakya",
+      "link": "https://jobs.ashbyhq.com/sarvam/10a352d0-a65b-4599-8998-e09deef34349",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "ML Researcher, Foundational Models",
+      "link": "https://jobs.ashbyhq.com/sarvam/2dcb062d-e42b-408d-be15-59ddde900984",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "ML Engineer (Training Infra), Foundational Models",
+      "link": "https://jobs.ashbyhq.com/sarvam/e9fb1269-fc4b-4879-aa35-0b75a8c83611",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Platform Engineer - AI Infrastructure",
+      "link": "https://jobs.ashbyhq.com/sarvam/fcb15601-6440-41f7-aa79-b9992057a4b2",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Performance Engineer, Kernels",
+      "link": "https://jobs.ashbyhq.com/sarvam/72783205-b637-4431-9a0e-676a8223b063",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Performance Engineer, Inference",
+      "link": "https://jobs.ashbyhq.com/sarvam/7d2faba2-21a1-4a8a-aff5-f708a6959195",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "DevOps Engineer",
+      "link": "https://jobs.ashbyhq.com/sarvam/d2d593e6-be5a-4431-b1fa-86f18d1c7edf",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Agent Engineer",
+      "link": "https://jobs.ashbyhq.com/sarvam/36f89b00-2010-4d23-aae3-17a2f53d9eaa",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Product & Strategy Associate",
+      "link": "https://jobs.ashbyhq.com/sarvam/786e9a1b-e52d-4075-932d-66e4ad8e06c2",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Software Engineer - Model API Platform",
+      "link": "https://jobs.ashbyhq.com/sarvam/0371342b-5cb8-487b-9310-4d0eb5b37f47",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Software Development Engineer - Tejas",
+      "link": "https://jobs.ashbyhq.com/sarvam/db89b576-2456-4cc4-ab0b-c45f8c6c27f0",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Marketing internship (brand & communication)",
+      "link": "https://jobs.ashbyhq.com/sarvam/bba82f34-1544-421e-a393-3edd8a5f4cb2",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Infrastructure Engineer",
+      "link": "https://jobs.ashbyhq.com/sarvam/f09b6a35-e2d1-4833-8bc5-2b495991d882",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "SDE3, Infrastructure Security Engineer (DevSecOps)",
+      "link": "https://jobs.ashbyhq.com/sarvam/1dd07b8b-0c0b-422a-8ff4-c99bdc5add68",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Software Development Engineer 3, Samvaad",
+      "link": "https://jobs.ashbyhq.com/sarvam/4c7378a7-6736-4038-b584-f2dc242d756c",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Sarvam AI",
+      "role": "Senior Software Engineer - Data Infrastructure",
+      "link": "https://jobs.ashbyhq.com/sarvam/98a3eeee-68b8-4555-bdc6-3dd683980343",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Plane Software",
+      "role": "Software Engineer, Backend (Node.js)",
+      "link": "https://jobs.ashbyhq.com/plane/188f905e-3f6f-4569-9a32-d8ec48dfe656",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Plane Software",
+      "role": "Senior Software Engineer, Quality Engineering",
+      "link": "https://jobs.ashbyhq.com/plane/65c21968-e0e5-4245-824f-9f1039162b7d",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "AiPrise",
+      "role": "Software Engineer III (Bangalore, India)",
+      "link": "https://jobs.ashbyhq.com/aiprise/e7890d9f-8e1f-48a0-92be-071a282e7fe8",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "AiPrise",
+      "role": "Software Engineer II (Bangalore, India)",
+      "link": "https://jobs.ashbyhq.com/aiprise/02112df8-70fa-4133-a860-151b5f585ed9",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Meraki Labs",
+      "role": "AI Engineer",
+      "link": "https://jobs.ashbyhq.com/Meraki-Labs/958edd0a-edca-4da9-b65e-2aac4c6564fe",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Meraki Labs",
+      "role": "Founding AI Engineer/CTO - MyRico",
+      "link": "https://jobs.ashbyhq.com/Meraki-Labs/a4cf68d9-40c1-43f8-84cd-7ec262fc1bd6",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Certa",
+      "role": "Solution Engineer - Post Implementation",
+      "link": "https://jobs.ashbyhq.com/certa/f526ed60-d978-46a6-b44a-a0bdb17ce7ea",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Certa",
+      "role": "Software Development Engineer in Test - SDET",
+      "link": "https://jobs.ashbyhq.com/certa/b11ff3f4-b175-426a-a05a-f1b687cd5eda",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "InMobi",
+      "role": "Machine Learning Engineer II - Backend",
+      "link": "https://job-boards.greenhouse.io/inmobi/jobs/6898755",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "InMobi",
+      "role": "SDE II - AI",
+      "link": "https://job-boards.greenhouse.io/inmobi/jobs/8073988",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Rubrik",
+      "role": "Database Reliability Engineer/Database Engineer (Rubrik Security Cloud Platform)",
+      "link": "https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Rubrik",
+      "role": "ENG Project/ Program - Intern",
+      "link": "https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Stripe",
+      "role": "AMER Data Analyst - Sales Strategy and Operations",
+      "link": "https://stripe.com/jobs/search?gh_jid=8354566",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Stripe",
+      "role": "Backend Engineer, Core Technology",
+      "link": "https://stripe.com/jobs/search?gh_jid=6042172",
+      "sent_at": "2026-11-11"
+    },
+    {
+      "company": "Coinbase",
+      "role": "Broker Dealer Operations, Associate",
+      "link": "https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775",
+      "sent_at": "2026-11-11"
+    }
+  ]
+}
